@@ -1,0 +1,45 @@
+body {
+    text-align: center
+}
+
+.image-sec {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100;
+}
+
+.sec-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+.imgs {
+    width:350px;
+    height: 300px;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.container
+{
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: white;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: black;
+    font-size: 20px;
+}
